@@ -1,5 +1,3 @@
-# This file is identical to init.fish and is required for fisherman support
-
 if not command -s pyenv > /dev/null
     echo "Install <github.com/yyuu/pyenv> to use 'pyenv'."
     exit 1
