@@ -10,7 +10,7 @@ end
 set -xg PATH "$pyenv_root/bin" $PATH
 
 if not command -s pyenv > /dev/null
-    echo "Install <github.com/yyuu/pyenv> to use 'pyenv'."
+    echo "Install <https://github.com/yyuu/pyenv> to use 'pyenv'."
     exit 1
 end
 
