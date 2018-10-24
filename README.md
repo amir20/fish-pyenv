@@ -4,10 +4,10 @@
 
 ## Install
 
-With [fisherman]
+With [fisher]
 
 ```
-fisher rominf/omf-plugin-pyenv
+fisher add rominf/omf-plugin-pyenv
 ```
 
 With [oh-my-fish]
@@ -33,6 +33,6 @@ gets loaded and hence have no effect. In order to fix this you should drop
 a `000-env.fish` file in your `~/.config/fish/conf.d` folder which sets
 up your environment accordingly.
 
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
-[pyenv]: https://github.com/yyuu/pyenv
+[pyenv]: https://github.com/pyenv/pyenv
