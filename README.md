@@ -7,13 +7,7 @@
 With [fisher]
 
 ```
-fisher add rominf/omf-plugin-pyenv
-```
-
-With [oh-my-fish]
-
-```
-omf install https://github.com/rominf/omf-plugin-pyenv
+fisher install amir20/fish-pyenv
 ```
 
 ## Notes
